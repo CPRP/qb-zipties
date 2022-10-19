@@ -9,6 +9,6 @@ Config.BagFallOffWait = 3 -- Time Before The Head Bag Automatically Falls Off (I
 Config.ZiptieWiggleAmount = 100 -- Number of Times The Victim Must Press "Point" Before Breaking Free From Zipties (Default: B)
 
 -- Uses Clothing Menu --
-Config.BagSelection = 49 -- Mask Selection (Default: 49)
-Config.BagTexture = 19 -- Mask Type (Default: 19)
+Config.BagSelection = 65 -- Mask Selection (Default: 49)
+Config.BagTexture = 0 -- Mask Type (Default: 19)
 
